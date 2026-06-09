@@ -1,4 +1,3 @@
-# aws-s3-misconfiguration-detector
 
 # AWS S3 Misconfiguration Detector
 
