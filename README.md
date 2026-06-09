@@ -54,9 +54,6 @@ Security Score: 66/100
 * Bucket Encryption
 * Public Access Block Configuration
 
-## Sample output
-
-<img width="1919" height="626" alt="Screenshot 2026-06-09 211746" src="https://github.com/user-attachments/assets/89508680-b59e-4f49-bb5a-68c51ba4d9df" />
 
 
 ## Author
