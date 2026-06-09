@@ -1,0 +1,5 @@
+.aws/
+*.csv
+*.json
+__pycache__/
+*.pyc0
